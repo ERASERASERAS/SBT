@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generate-java-from-xsd/generate-java-from-xsd.iml" filepath="$PROJECT_DIR$/generate-java-from-xsd/generate-java-from-xsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generate-xsd-from-java/generate-xsd-from-java.iml" filepath="$PROJECT_DIR$/generate-xsd-from-java/generate-xsd-from-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxb-xsd-processor.iml" filepath="$PROJECT_DIR$/jaxb-xsd-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runner-java-from-xsd/runner-java-from-xsd.iml" filepath="$PROJECT_DIR$/runner-java-from-xsd/runner-java-from-xsd.iml" />
+    </modules>
+  </component>
+</project>
