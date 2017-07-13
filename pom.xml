@@ -32,15 +32,17 @@
                         </goals>
                     </execution>
                 </executions>
+                <configuration>
+                    <pathToSourceFolder>C:\Users\usersbt\IdeaProjects\SBT\generate-xsd-from-java\src\main\java\</pathToSourceFolder>
+                </configuration>
             </plugin>
         </plugins>
     </build>
 
-    <modules>
+   <!-- <modules>
         <module>generate-java-from-xsd</module>
         <module>runner-java-from-xsd</module>
         <module>generate-xsd-from-java</module>
-    </modules>
-    <!--adding jaxb dependencies-->
+    </modules> -->
 
  </project>
